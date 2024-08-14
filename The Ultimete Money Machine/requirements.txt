@@ -1,0 +1,3 @@
+dydx-v3-python
+web3
+decouple
