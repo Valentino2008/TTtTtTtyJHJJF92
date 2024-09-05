@@ -1,3 +1,6 @@
 dydx-v3-python
 web3
-decouple
+numpy
+decimal
+datatime
+time
